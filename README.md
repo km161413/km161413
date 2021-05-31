@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey! 🙋‍♂️
+I'm Khaled from Egypt, an 17 years old passionate self-learner (I want to say that I'm a web developer but I'm not qualified enough yet)
 
-<!--
-**km161413/km161413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python
 
-Here are some ideas to get you started:
+## 🔴 Main goal
+ To be a full qualified Python web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+- Email: km20161413@gmail.com
+- Telegram: @khaled_muhammad
+- LinkedIn: https://www.linkedin.com/in/km04/
